@@ -1,0 +1,8 @@
+Spider_defeat
+Spider_defeat
+Spider_defeat
+Spider_victory
+Goblin_victory
+Orc_victory
+Troll_victory
+Dragon(boss)_victory

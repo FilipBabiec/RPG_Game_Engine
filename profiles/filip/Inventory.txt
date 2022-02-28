@@ -1,0 +1,8 @@
+Sword_of_fire
+Ring_of_dexterity
+Mage's_robes
+Regular_shield
+Offensive_shield
+Defensive_book
+Divine_armour
+Ring_of_intelligence

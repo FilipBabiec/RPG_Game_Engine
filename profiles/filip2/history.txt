@@ -1,0 +1,5 @@
+Dragon(boss)_victory
+Troll_victory
+Orc_victory
+Goblin_victory
+Spider_victory

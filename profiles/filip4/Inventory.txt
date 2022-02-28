@@ -1,0 +1,4 @@
+Defensive_ring
+Ring_of_dexterity
+Mage's_ring
+Mage's_robes
